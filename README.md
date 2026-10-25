@@ -13,6 +13,6 @@
 
 # Tools:
  - OS: Linux Ubuntu
-#- Text Editor: VS Code
+ - Text Editor: VS Code
  - Browser: Mozilla Firefox
-#- Terminal: bash
+ - Terminal: bash
